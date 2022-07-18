@@ -1,0 +1,26 @@
+.navbar{
+ background:#08bcbf;
+}
+.nav-link , .navbar-brand{
+ color: #f4f4f4;
+ cursor: pointer;
+}
+.nav-link{
+ margin-right: #08bcbf !important;
+}
+.nav-link:hover{
+ background: #08bcbf;
+ color: #808c8c;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+background:#fff !important;
+}
+.header{
+ background-image: url('https://storge.pic2.me/w/560x350/934/5af9436344070.webp');
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
