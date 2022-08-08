@@ -34,7 +34,7 @@
 }
 
 .header{
-     background-image: url('images/image-fon.jpg');
+     background-image: url('image-fon.jpg');
      background-attachment: fixed;
      background-size: cover;
      background-position: center;
